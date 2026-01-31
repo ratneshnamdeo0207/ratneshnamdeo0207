@@ -7,14 +7,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Coding enthusiast
-- 🌱 Currently learning Web Development
-- ⚡ Interested in building real-world projects
-- 🔗 LinkedIn: https://www.linkedin.com/in/ratnesh-namdeo0207/
-
----
-
 ### 🛠️ Technical Skills
 
 #### 🌐 Frontend
@@ -46,6 +38,18 @@
 
 ---
 
+### 👨‍💻 About Me
+- 💻 Coding enthusiast
+- 🌱 Currently learning Web Development
+- ⚡ Interested in building real-world projects
+- 🔗 LinkedIn: https://www.linkedin.com/in/ratnesh-namdeo0207/
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/ratnesh-namdeo0207/
+- GitHub  : https://github.com/ratneshnamdeo0207
+
 ### 📊 GitHub Stats
 
 ![Ratnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratneshnamdeo0207&show_icons=true&theme=dark)
@@ -53,7 +57,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshnamdeo0207&layout=compact&theme=dark)
 
 ---
-
-### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/ratnesh-namdeo0207/
-- GitHub  : https://github.com/ratneshnamdeo0207
