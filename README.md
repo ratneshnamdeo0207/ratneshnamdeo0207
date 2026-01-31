@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi, I'm Ratnesh Namdeo 👋</h1>
 <h3 align="center">A developer in making 🚀</h3>
 
